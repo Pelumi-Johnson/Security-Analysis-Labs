@@ -7,6 +7,6 @@ Hands-on threat detection, log analysis, incident response exercises, and securi
 
 ![Badge](https://img.shields.io/badge/Cloud-AWS%20Azure%20GCP-blue?style=for-the-badge)
 
-Industry-focused cloud labs across AWS, Azure, and GCP exploring virtualization, network configuration, cloud storage, compute, and multi-cloud architecture.
+Per Scholas hands-on security lab focused on identifying improper access to sensitive administrative shares and implementing preventive controls.
 
 👉  [**View all Cloud Technology Projects**](https://github.com/Pelumi-Johnson/Configuring-Preventive-Controls-for-Administrative-Shares-/tree/main?tab=readme-ov-file)
