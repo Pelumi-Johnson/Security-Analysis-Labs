@@ -5,7 +5,7 @@ Hands-on threat detection, log analysis, incident response exercises, and securi
 
 ## 🛡️ Configuring Preventive Controls for Administrative Shares 
 
-![Badge](https://img.shields.io/badge/Cloud-AWS%20Azure%20GCP-blue?style=for-the-badge)
+![Badge](https://img.shields.io/badge/Network%20Security-Access%20Control%20%7C%20Least%20Privilege-blue?style=for-the-badge)
 
 Per Scholas hands-on security lab focused on identifying improper access to sensitive administrative shares and implementing preventive controls.
 
