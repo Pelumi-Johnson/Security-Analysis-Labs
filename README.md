@@ -1,7 +1,9 @@
-# Security-Analysis-Labs
+# 🚨 Security Analysis Labs
+Hands-on threat detection, log analysis, incident response exercises, and security monitoring aligned with CySA+ domains.
 
+---
 
-## 🌐 CMIT 326 – Cloud Technologies
+## 🛡️ Configuring Preventive Controls for Administrative Shares 
 
 ![Badge](https://img.shields.io/badge/Cloud-AWS%20Azure%20GCP-blue?style=for-the-badge)
 
