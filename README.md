@@ -9,4 +9,4 @@ Hands-on threat detection, log analysis, incident response exercises, and securi
 
 Industry-focused cloud labs across AWS, Azure, and GCP exploring virtualization, network configuration, cloud storage, compute, and multi-cloud architecture.
 
-👉  [**View all Cloud Technology Projects**](https://github.com/Pelumi-Johnson/Cloud-Labs)
+👉  [**View all Cloud Technology Projects**](https://github.com/Pelumi-Johnson/Configuring-Preventive-Controls-for-Administrative-Shares-/tree/main?tab=readme-ov-file)
