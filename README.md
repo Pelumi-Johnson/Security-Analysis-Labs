@@ -17,7 +17,7 @@ Per Scholas hands-on security lab focused on identifying improper access to sens
 
 ![Badge](https://img.shields.io/badge/Security%20Monitoring-Event%20Viewer%20%7C%20Audit%20Logs-yellow?style=for-the-badge)
 
-Per Scholas hands-on security lab focused on identifying improper access to sensitive administrative shares and implementing preventive controls.
+The objective of this lab was to configure and test detective controls by enabling and validating windows object access auditing.
 
 👉  [**View all Cloud Technology Projects**](https://github.com/Pelumi-Johnson/-Configuring-Detective-Controls-for-Object-Access-Activity-Windows-Auditing-Lab-/tree/main)
 
