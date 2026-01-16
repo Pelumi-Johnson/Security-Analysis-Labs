@@ -22,3 +22,13 @@ The objective of this lab was to configure and test detective controls by enabli
 👉  [**View all Cloud Technology Projects**](https://github.com/Pelumi-Johnson/-Configuring-Detective-Controls-for-Object-Access-Activity-Windows-Auditing-Lab-/tree/main)
 
 ---
+
+## 🧭 Configuring Directive Controls Using a Login Warning Banner
+
+![Badge](https://img.shields.io/badge/Directive%20Control-Login%20Banner%20%7C%20Compliance-orange?style=for-the-badge)
+
+This lab demonstrates the implementation of a directive security control by configuring a login warning banner on a Windows system. 
+
+👉  [**View all Cloud Technology Projects**](https://github.com/Pelumi-Johnson/Configuring-Directive-Controls-Using-a-Login-Warning-Banner/tree/main)
+
+---
