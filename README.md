@@ -19,6 +19,6 @@ Per Scholas hands-on security lab focused on identifying improper access to sens
 
 Per Scholas hands-on security lab focused on identifying improper access to sensitive administrative shares and implementing preventive controls.
 
-👉  [**View all Cloud Technology Projects**](https://github.com/Pelumi-Johnson/Configuring-Preventive-Controls-for-Administrative-Shares-/tree/main?tab=readme-ov-file)
+👉  [**View all Cloud Technology Projects**](https://github.com/Pelumi-Johnson/-Configuring-Detective-Controls-for-Object-Access-Activity-Windows-Auditing-Lab-/tree/main)
 
 ---
