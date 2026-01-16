@@ -13,6 +13,16 @@ Per Scholas hands-on security lab focused on identifying improper access to sens
 
 ---
 
+## 🧭 Configuring Directive Controls Using a Login Warning Banner
+
+![Badge](https://img.shields.io/badge/Directive%20Control-Login%20Banner%20%7C%20Compliance-orange?style=for-the-badge)
+
+This lab demonstrates the implementation of a directive security control by configuring a login warning banner on a Windows system. 
+
+👉  [**View all Cloud Technology Projects**](https://github.com/Pelumi-Johnson/Configuring-Directive-Controls-Using-a-Login-Warning-Banner/tree/main)
+
+---
+
 ## 🕵️ Configuring Detective Controls for Object Access Activity (Windows Auditing Lab)
 
 ![Badge](https://img.shields.io/badge/Security%20Monitoring-Event%20Viewer%20%7C%20Audit%20Logs-yellow?style=for-the-badge)
