@@ -10,3 +10,15 @@ Hands-on threat detection, log analysis, incident response exercises, and securi
 Per Scholas hands-on security lab focused on identifying improper access to sensitive administrative shares and implementing preventive controls.
 
 👉  [**View all Cloud Technology Projects**](https://github.com/Pelumi-Johnson/Configuring-Preventive-Controls-for-Administrative-Shares-/tree/main?tab=readme-ov-file)
+
+---
+
+## 🕵️ Configuring Detective Controls for Object Access Activity (Windows Auditing Lab)
+
+![Badge](https://img.shields.io/badge/Security%20Monitoring-Event%20Viewer%20%7C%20Audit%20Logs-yellow?style=for-the-badge)
+
+Per Scholas hands-on security lab focused on identifying improper access to sensitive administrative shares and implementing preventive controls.
+
+👉  [**View all Cloud Technology Projects**](https://github.com/Pelumi-Johnson/Configuring-Preventive-Controls-for-Administrative-Shares-/tree/main?tab=readme-ov-file)
+
+---
