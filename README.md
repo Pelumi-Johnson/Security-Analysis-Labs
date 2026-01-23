@@ -5,8 +5,6 @@ Hands-on threat detection, log analysis, incident response exercises, and securi
 
 ## 🛡️ Configuring Preventive Controls for Administrative Shares 
 
-![Badge](https://img.shields.io/badge/Network%20Security-Access%20Control%20%7C%20Least%20Privilege-blue?style=for-the-badge)
-
 Per Scholas hands-on security lab focused on identifying improper access to sensitive administrative shares and implementing preventive controls.
 
 👉  [**View all Cloud Technology Projects**](https://github.com/Pelumi-Johnson/Configuring-Preventive-Controls-for-Administrative-Shares-/tree/main?tab=readme-ov-file)
@@ -15,8 +13,6 @@ Per Scholas hands-on security lab focused on identifying improper access to sens
 
 ## 🧭 Configuring Directive Controls Using a Login Warning Banner
 
-![Badge](https://img.shields.io/badge/Directive%20Control-Login%20Banner%20%7C%20Compliance-orange?style=for-the-badge)
-
 This lab demonstrates the implementation of a directive security control by configuring a login warning banner on a Windows system. 
 
 👉  [**View all Cloud Technology Projects**](https://github.com/Pelumi-Johnson/Configuring-Directive-Controls-Using-a-Login-Warning-Banner/tree/main)
@@ -24,8 +20,6 @@ This lab demonstrates the implementation of a directive security control by conf
 ---
 
 ## 🕵️ Configuring Detective Controls for Object Access Activity (Windows Auditing Lab)
-
-![Badge](https://img.shields.io/badge/Security%20Monitoring-Event%20Viewer%20%7C%20Audit%20Logs-yellow?style=for-the-badge)
 
 The objective of this lab was to configure and test detective controls by enabling and validating windows object access auditing.
 
